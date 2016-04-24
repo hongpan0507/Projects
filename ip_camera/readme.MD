@@ -6,7 +6,8 @@
 1. [DCS-5009L = $79.99](http://shop.us.dlink.com/shop/shop-security/camera/pan-tilt-wi-fi-camera-dcs-5009l.html)
   + Networking Protocol: IPV4, ARP, TCP, UDP, ICMP, DHCP Client, NTP Client (D-Link), DNS Client, DDNS Client (Dyndns and D-Link), SMTP Client, FTP Client, HTTP Server, PPPoE, UPnP Port Forwarding, LLTD
 1. [DCS-5222L = $149.99](http://shop.us.dlink.com/shop/shop-security/camera/d-link-dcs-5222l-hd-pan-tilt-wi-fi-camera.html)
-Note: 
+
+Note:  
 1. datasheet has supported network protocol
 
 ## reference
